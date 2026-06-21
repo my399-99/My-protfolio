@@ -1,6 +1,6 @@
 # My-protfolio 🧾
 
-<img width="433" height="577" alt="ดีไซน์ที่ยังไม่ได้ตั้งชื่อ_20260621_202135_0000-removebg-preview" src="https://github.com/user-attachments/assets/64da1925-aac8-449f-87cb-50ddd7fa61f8" />
+<img width="810" height="809" alt="cropped_circle_image" src="https://github.com/user-attachments/assets/5dd45e0b-1b35-4939-9a6f-1f160731c335" />
 
 
 
