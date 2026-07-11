@@ -19,6 +19,10 @@
 | Menu | Open |
 |------|------|
 | ประวัติส่วนตัว ❄️| [Click Here](1m.md)  
-| ระดับการศึกษา 
-เหตุผล
-เกียร
+| ระดับการศึกษา🎈| [Click Here](2R.md)  
+|  เหตุผล ☘️   | [Click Here](3m.md)  
+|  เกียรติบัตร1🏆     | [Click Here](4m.md) 
+|  เกียรติบัตร2🏆     | [Click Here](5m.md)
+|  เกียรติบัตร3🏆     | [Click Here](6m.md)
+|  เกียรติบัตร4🏆     | [Click Here](7m.md)
+|  กิจกรรม1    | [Click Here](8m.md)
